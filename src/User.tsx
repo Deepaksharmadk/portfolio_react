@@ -10,7 +10,7 @@ const ProjectInfo = [
     title: "Like Hotel Booking app",
     desc: "User Registration/Login: Users create an account or log in to access booking features.Search for Hotels: Users search for hotels based on their desired location and dates.View Hotel Details: Users can click on a hotel to view more details, including photos, amenities, and reviews.Make a Booking: Users select their desired dates and proceed to book the hotel.Payment Processing: Users enter payment information to complete the booking.Confirmation: Users receive a confirmation of their booking via email and in-app notifications.Manage Bookings: Users can view and manage their bookings through their profile..",
     image:
-      "https://github.com/Deepaksharmadk/h/blob/main/Adobe%20Scan%2017-Jul-2024%20(6)_1%20(7).jpg",
+      "https://github.com/Deepaksharmadk/portfolio_react/blob/main/public/room.png",
     live: true,
     technologies: [
       "React",
