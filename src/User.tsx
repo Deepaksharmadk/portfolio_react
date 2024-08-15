@@ -10,7 +10,8 @@ const ProjectInfo = [
     title: "Like Hotel Booking app",
     desc: "User Registration/Login: Users create an account or log in to access booking features.Search for Hotels: Users search for hotels based on their desired location and dates.View Hotel Details: Users can click on a hotel to view more details, including photos, amenities, and reviews.Make a Booking: Users select their desired dates and proceed to book the hotel.Payment Processing: Users enter payment information to complete the booking.Confirmation: Users receive a confirmation of their booking via email and in-app notifications.Manage Bookings: Users can view and manage their bookings through their profile..",
     image:
-      "https://github.com/Deepaksharmadk/portfolio_react/blob/main/public/room.png",
+      "https://raw.githubusercontent.com/Deepaksharmadk/portfolio_react/main/public/room1.svg",
+
     live: true,
     technologies: [
       "React",
@@ -20,25 +21,19 @@ const ProjectInfo = [
       "context API",
       "tailwind ",
     ],
-    link: "https://ks-expense-tracker-app.vercel.app/",
-    github: "https://github.com/kushalkumar-shaw/Expense-Tracker-App",
+    link: "https://roombookingdot.onrender.com",
+    github: "https://github.com/Deepaksharmadk/hotelbooking_plateform",
   },
   {
-    title: "SnapLink",
-    desc: "SnapLink is a robust URL shortening application built with Next.js, designed to streamline the process of transforming long URLs into concise, shareable links. It features seamless integration with the TinyURL API, allowing users to generate shortened URLs effortlessly. The application boasts a mobile-first, responsive design to ensure an optimal user experience across devices, and is optimized with server-side rendering for fast, lightweight performance. Additionally, SnapLink simplifies setup with a straightforward installation process, making it easy for developers to deploy and use.",
+    title: "Like LMS SYSTEM",
+    desc: "LMS: Like Library Management System is a web application that allows users to manage their library. It provides features such as user signup,login,logout,course create,payment configration.",
     image:
       "https://raw.githubusercontent.com/Deepaksharmadk/portfolio_react/main/public/lms.svg",
 
     live: true,
-    technologies: [
-      "Next.js",
-      "TinyURL API",
-      "JavaScript",
-      "Node.js",
-      "npm/Yarn",
-    ],
-    link: "https://ks-snap-link.vercel.app/",
-    github: "https://github.com/kushalkumar-shaw/snap-link",
+    technologies: ["React", "MongoDB", "Express", "Node.js", "redux-toolkit"],
+    link: "https://lms-deepaksharmadks-projects.vercel.app/",
+    github: "https://github.com/Deepaksharmadk/lms",
   },
 ];
 
@@ -179,24 +174,23 @@ export const EducationInfo = [
     img: "iitm.png",
     school: "Gandi institue for education and technology, Baniatangi,khurda",
     date: "May 2023 - April 2027",
-    desc: "I am currently pursuing a Bachelor of Science in Data Science and Programming at the Indian Institute of Technology Madras. With a strong foundation in data analysis, statistical modeling, and programming, I am passionate about leveraging data to drive impactful solutions. My academic journey has equipped me with skills in Python, R, machine learning, and big data technologies. I am eager to apply my knowledge to real-world challenges and continue learning in the dynamic field of data science.",
-    degree: "Bachelor of Science - Data Science and Programming",
+    desc: "I am currently pursuing a Bachelor of Technology in Computer Science with a CGPA of 7.5",
   },
   {
     id: 1,
     img: "spdc.png",
     school: "",
-    date: "May 2021 - Apr 2023",
-    desc: "I completed my class 12 education at .",
-    degree: "Higher Secondary Certificate (Class 12)",
+    date: "2019 – 2021",
+    desc: "I completed my class 12 education at in L.C.S COLLEGE, DARBHANGA .",
+    degree: "Higher Secondary Certificate (Class 12) - Percentage - 71.4",
   },
   {
     id: 2,
     img: "evershine.png",
     school: "",
     date: "May 2011 - Apr 2021",
-    desc: ".",
-    degree: "",
+    desc: "UTKRAMIT MS PATANIA, BIRAUL DARBHANGA",
+    degree: "MATRICULATION (10TH) - Percentage - 72.6",
   },
 ];
 

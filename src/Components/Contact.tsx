@@ -22,7 +22,7 @@ const Contact = () => {
           "service_a5sshja",
           "template_2zymidi",
           form.current,
-          "btouP75ahvKnv-YUOdhnx"
+          "3gGkakbADE4w3Z8cY"
         )
         .then(
           (result) => {
