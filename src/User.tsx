@@ -171,14 +171,14 @@ const socialLinks = [
 export const EducationInfo = [
   {
     id: 0,
-    img: "iitm.png",
+    img: "iitm.jpg",
     school: "Gandi institue for education and technology, Baniatangi,khurda",
     date: "May 2023 - April 2027",
     desc: "I am currently pursuing a Bachelor of Technology in Computer Science with a CGPA of 7.5",
   },
   {
     id: 1,
-    img: "spdc.png",
+    img: "download.jpg",
     school: "",
     date: "2019 – 2021",
     desc: "I completed my class 12 education at in L.C.S COLLEGE, DARBHANGA .",
@@ -186,7 +186,7 @@ export const EducationInfo = [
   },
   {
     id: 2,
-    img: "evershine.png",
+    img: "h.jpg",
     school: "",
     date: "May 2011 - Apr 2021",
     desc: "UTKRAMIT MS PATANIA, BIRAUL DARBHANGA",
